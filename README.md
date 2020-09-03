@@ -88,7 +88,7 @@
             <main>
                 <! -- Sidebar Section -->
                 <div class="sidebar">
-                      <img class="sidebar-img"src="https://mail.google.com/mail/u/1?ui=2&ik=761f0a1961&attid=0.1&permmsgid=msg-a:r-398726159509220558&th=17454ed5cca8edf4&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ_dGXNV_py4DbJ_O7CCWxFathvEwZqb_0fL-2u2TtYNL4Ne3gWqCgsrqarIpVcHJW8sS5rcjDQ_W6nW6-fWoA8AbqFH9N87X09QRhjiHBl46pejxiV73TxMH0w&disp=emb&realattid=ii_ken27o670"
+                      <img class="sidebar-img"src="https://mail.google.com/mail/u/1?ui=2&ik=761f0a1961&attid=0.1&permmsgid=msg-a:r-3844875952742728372&th=174552f073c8d332&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ9-SIHGiZyKpzxqmCYfoKnzFBiILNUK94zLurAPwyoNZu_2OG9bysWJIuUhis1ph5Xs3lhxX0m8-T5p3vlaPUU-43bYFpTFIRqXeJsDAXxxc-pka2dQLwQwL3c&disp=emb&realattid=ii_ken4rurd0"
                 </div>
 
                 <! -- Content Section -->
