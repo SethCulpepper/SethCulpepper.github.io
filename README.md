@@ -88,7 +88,7 @@
             <main>
                 <! -- Sidebar Section -->
                 <div class="sidebar">
-                      <img class="sidebar-img"src="https://mail.google.com/mail/u/1?ui=2&ik=761f0a1961&attid=0.1&permmsgid=msg-a:r-3844875952742728372&th=174552f073c8d332&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ9-SIHGiZyKpzxqmCYfoKnzFBiILNUK94zLurAPwyoNZu_2OG9bysWJIuUhis1ph5Xs3lhxX0m8-T5p3vlaPUU-43bYFpTFIRqXeJsDAXxxc-pka2dQLwQwL3c&disp=emb&realattid=ii_ken4rurd0"
+                      <img class="sidebar-img"src="https://f0ca2d3c-a490-474d-b1f3-a40d5e21c144.ws-us02.gitpod.io/mini-browser/workspace/SethCulpepper.github.io/Praise%20Team%20Guitar.png">
                 </div>
 
                 <! -- Content Section -->
